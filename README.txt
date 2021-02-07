@@ -1,0 +1,1 @@
+this is convert method of pdf to image 
